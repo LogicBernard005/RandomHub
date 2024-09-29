@@ -1,0 +1,1 @@
+Q1) rewrite ur pay consumption to give employee 1.5 times the hourly  

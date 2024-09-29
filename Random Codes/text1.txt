@@ -1,0 +1,5 @@
+1) WAP to check if a string is pallindrome or not by using string functions.
+2) WAP to print values in an array using pointers 
+3) WAP to swap 2 numbers using pointers
+4) WAP to copy one string to other string using pointers
+5) WAP to concatenate 2 strings using pointers 
